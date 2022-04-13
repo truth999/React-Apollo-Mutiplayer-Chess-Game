@@ -49,6 +49,6 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "author": "Ratko Solar <ratko.solar@gmail.com> (http://ratkosolar.com/)",
+  "author": "Truth Dev",
   "license": "MIT"
 }
